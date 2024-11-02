@@ -1,0 +1,8 @@
+scikit-learn==1.2.2
+google-generativeai
+numpy==1.26.4
+pillow
+tensorflow
+keras
+beautifulsoup4
+requests
